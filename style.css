@@ -6,7 +6,10 @@
     width: 80px;
     height: 100px;
 }
-
+.carousel{
+    margin-top: 40%;
+   
+}
 .about{
     margin: 2%;
     padding: 2%;
