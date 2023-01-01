@@ -1,0 +1,44 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand img{
+    width: 80px;
+    height: 100px;
+}
+
+.about{
+    margin: 2%;
+    padding: 2%;
+}
+.aboutheading{
+    margin-bottom: 2%;
+}
+.aboutpara{
+    margin-left: 1%;
+    font-size:xx-large;
+    font-weight: 400;
+}
+.bikeheading{
+    padding: 2%;
+}
+.formlabel{
+    color: bisque;
+    background-color: black;
+}
+.footer .img-fluid{
+    
+   
+}
+.footer{
+    background-color: black;
+}
+
+.contactr1{
+    padding: 2%;
+    color: beige;
+}
+.footerheading{
+    padding: 2%;
+    color: beige;
+}
